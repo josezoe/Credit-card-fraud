@@ -4,7 +4,7 @@ library(tidyverse)
 
 
 cr=read.csv(choose.files())
-
+# download the dataset https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 #let check structure
 str(cr)
